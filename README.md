@@ -1,6 +1,8 @@
 # Oracle Integration - Chainlink External Data
 
 
+<img width="950" height="446" alt="{75F40E90-F351-4333-8F01-96082AC05A38}" src="https://github.com/user-attachments/assets/9f8d9f55-378e-44d6-a6c4-d7057b674ba4" />
+
 ## Project Description
 
 This smart contract project demonstrates the integration of Chainlink oracles to fetch real-world external data on the blockchain. The `OracleIntegration.sol` contract serves as a decentralized price feed aggregator that can retrieve, store, and manage cryptocurrency price data from multiple Chainlink price feed oracles.
